@@ -1,6 +1,6 @@
 <?php
 
-$x =0;
+$x =true;
 
 if ($x == 1) {
     echo 1;
@@ -11,23 +11,7 @@ if ($x == 2) {
 if ($x == 3) {
     echo 3;
 }
-else {
-    echo '123<br>';
-}
 
-$x =123;
-
-if ($x == 1) {
-    echo 1;
-}
-if ($x == 2) {
-    echo 2;
-}
-if ($x == 3) {
-    echo 3;}
-if ($x == 123) {
-    echo '123<br>';
-};
 
 // 123
 
